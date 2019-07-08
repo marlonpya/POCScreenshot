@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnScreenShot"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tomar foto" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm2" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm3" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm4" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm5" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm6" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm7" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm8" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm9" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm10" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm11" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm12" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="40dp"
+                android:text="laslsalfaslfamslfmalsfalsfmalsfmlasflaslfmalsfmalsfmalsmflamsflamsflamslfmalsfmalsmflamsflmaslfmalsfm13" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
